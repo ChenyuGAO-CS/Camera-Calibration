@@ -24,25 +24,25 @@ You can run main.py to see the camera calibration implementation without using f
 
 Other Functions
 -------
-pic_data.py: Prepare data.
-dlt.py: Caculate Homography of each images.
-intrinsics.py: Caculate the intrinsics matrix.
-extrinsics.py: Caculate the extrinsics matrix.
+pic_data.py: Prepare data.<br>
+dlt.py: Caculate Homography of each images.<br>
+intrinsics.py: Caculate the intrinsics matrix.<br>
+extrinsics.py: Caculate the extrinsics matrix.<br>
 
 
 Other notes
 ====
-1. The intrinsics caculate by using OpenCV API :
-A =
- (534.07, 0, 0)
- (0, 534.12, 0)
- (341.53, 232.95, 1)
+1. The intrinsics caculate by using OpenCV API :<br>
+A =<br>
+ (534.07, 0, 0)<br>
+ (0, 534.12, 0)<br>
+ (341.53, 232.95, 1)<br>
 
-2. The intrinsics caculate by using my implementation:
-A =
- (532.806, 0, 0)
- (1.521, 529.066, 0)
- (350.359, 225.710, 1)
+2. The intrinsics caculate by using my implementation:<br>
+A =<br>
+ (532.806, 0, 0)<br>
+ (1.521, 529.066, 0)<br>
+ (350.359, 225.710, 1)<br>
 
 3. Note by Chenyu Gao, Northwestern Polytechnical University, Xi'an, Apr, 2018
 4. Any questions:   chenyugao.cs@gmail.com
