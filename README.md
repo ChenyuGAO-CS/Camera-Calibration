@@ -8,17 +8,17 @@ This is an unofficial implementation of Z. Zhang, IEEE Transactions 2000. "A fle
 
 
 Data Prepare
-====
+-------
 All the data I used are in directory: data/left
 
 
 Camera Calibration By OpenCV API
-====
+-------
 You can run prob1_6.py to see the camera calibration results and the undistrot images results
 
 
 Camera Calibration
-====
+-------
 You can run main.py to see the camera calibration implementation without using function cv2.calibrateCamera().
 
 Other Functions
@@ -30,7 +30,7 @@ extrinsics.py: Caculate the extrinsics matrix.<br>
 
 
 Other notes
-====
+-------
 1. The intrinsics caculate by using OpenCV API :<br>
 A =<br>
  (534.07, 0, 0)<br>
