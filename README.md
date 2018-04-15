@@ -1,7 +1,6 @@
 # Camera Calibration
 
 
-----------
 
 
 This is an unofficial implementation of Z. Zhang, IEEE Transactions 2000. "A flexible new technique for camera calibration"
